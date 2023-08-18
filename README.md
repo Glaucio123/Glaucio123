@@ -1,0 +1,5 @@
+-👋 Hello world , me chamo Glaucio Allain;
+-👨‍💻 Estudante da EETEPA Monte Alegre;
+-📚 Atualmente cursando o 6 semestre de informática;
+-🤩 Meus principais interesses são : robótica , manuntenção de aparelhos eletronicos e um interesse aprender programação;
+-😄 Estou procurando colaborar com o mundo da tecnologia e informática;
